@@ -1,9 +1,36 @@
 {
   "users": [
     {
-      "email": "test@gmail.com",
-      "password": "$2a$10$TWCLCm/S5mOxAAY2nsOHh.wAVET1.RTqUQgbuu7SYkZYsb4P6ZAZe",
+      "email": "admin@gmail.com",
+      "password": "$2a$10$LLRPFYIkYSSG1Q9WhKT0b.Rt2Iv2y08qMWr1GlIVbVjwjKIFlvm7u",
+      "firstname": "Mr",
+      "lastname": "X",
+      "isAdmin": true,
       "id": 1
+    },
+    {
+      "email": "bimo@gmail.com",
+      "password": "$2a$10$N0RGfPDiFaewljsd2OHu7eaDoS6DyRFpmdpjIvJ1ud7CLjTEDrS6m",
+      "firstname": "Paul",
+      "lastname": "Bimo",
+      "isAdmin": false,
+      "id": 2
+    },
+    {
+      "email": "kingofbimo@gmail.com",
+      "password": "$2a$10$knz9LhrLtRhM/gpPsb.RKOqzZmEa2l9idY65lAFw0tvnDF36cVneG",
+      "firstname": "Paulus",
+      "lastname": "Bimo",
+      "isAdmin": false,
+      "id": 3
+    },
+    {
+      "email": "bimo2@gmail.com",
+      "password": "$2a$10$v/GtaiRAfecyjS8Lt.Gs1emyJQq6hbbi9H2eOffH6b02yOWxx27Ua",
+      "firstname": "Paul2",
+      "lastname": "Bimo2",
+      "isAdmin": false,
+      "id": 4
     }
   ]
 }
